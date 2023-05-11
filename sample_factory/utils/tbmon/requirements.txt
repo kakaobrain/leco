@@ -1,0 +1,4 @@
+psutil
+tensorboardX (>=1.6)
+py3nvml
+tensorboard
